@@ -24,6 +24,7 @@ type group_type struct {
 	y      int
 }
 
+// ported from https://github.com/pandeynmn/nmns-extensions/blob/0bc45593ee3c16f4da38595fe5a4b52e71310ef4/src/MangaReaderTo/interceptors/ImageInterceptor.ts under GPL-v3
 func Unshuffle(image image_pkg.Image) *image_pkg.RGBA {
 	sliceSize := 200
 

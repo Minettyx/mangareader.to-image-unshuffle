@@ -4,7 +4,7 @@ Go library to unshuffle the images from [mangareader.to](https://mangareader.to/
 
 * The random number generation is done using a lookup table of 500 elements (maximum image area of 20000000px)
 
-* Unshuffle alghoritm ported to Go from ([https://github.com/pandeynmn/nmns-extensions/blob/main/src/MangaReaderTo/interceptors/ImageInterceptor.ts](https://github.com/pandeynmn/nmns-extensions/blob/main/src/MangaReaderTo/interceptors/ImageInterceptor.ts))
+* Unshuffle algorithm ported to Go from ([https://github.com/pandeynmn/nmns-extensions/blob/main/src/MangaReaderTo/interceptors/ImageInterceptor.ts](https://github.com/pandeynmn/nmns-extensions/blob/main/src/MangaReaderTo/interceptors/ImageInterceptor.ts))
 
 
 ![](https://img.0kb.eu/vCBVtWla.png)
